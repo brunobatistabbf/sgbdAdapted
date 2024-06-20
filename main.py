@@ -21,4 +21,24 @@ class SelecionarSGBD:
 
 
 if __name__ == '__main__':
-    print("CONSOLE")
+    print("---------- SGBD CONNECTION --------")
+    print("Escolha seu plano:")
+    print("1 - Gratuito")
+    print("2 - Básico")
+    print("3 - Ultimate")
+    print()
+    perfil = int(input("Insira uma das opções"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
